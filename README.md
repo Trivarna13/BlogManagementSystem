@@ -1,0 +1,2 @@
+# BlogManagementSystem
+DBMS Mini Project
